@@ -11,7 +11,7 @@ import SwiftUI
 struct BluetoothConnectorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BluetoothDevicesView()
         }
     }
 }
